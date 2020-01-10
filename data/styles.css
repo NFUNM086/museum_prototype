@@ -11,6 +11,12 @@
 }
 .box_2 {
 }
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -63,6 +69,12 @@
   text-align:left;
 }
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
 }
 .sticky_2 {
   text-align:left;
